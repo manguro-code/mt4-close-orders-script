@@ -21,7 +21,7 @@
 2. Выберите режим закрытия.
 3. Укажите порог прибыли (для режима закрытия прибыли).
 
-### English Version:
+# English Version:
 
 Order Closing Script for MetaTrader 4
 This script closes orders using three modes:
@@ -50,7 +50,7 @@ CLOSE_PROFIT: Close profitable orders (set profit threshold)
 CLOSE_LOSS: Close loss-making orders
 For CLOSE_PROFIT mode, specify minimum profit points
 
-## Spanish Version:
+# Spanish Version:
 
 Script para Cerrar Órdenes en MetaTrader 4
 Este script cierra órdenes en tres modos:
